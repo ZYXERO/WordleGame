@@ -1,10 +1,7 @@
 # WordleGame
-Wordle Game Project. Code made in Python using Object-Oriented Programming (OOP)
-
-# Project Title
 
 ## Description
-< describe the project >
+Wordle Game Project. Code made in Python using Object-Oriented Programming (OOP)
 
 ## ScreenShots
 ()[]
@@ -12,7 +9,7 @@ Wordle Game Project. Code made in Python using Object-Oriented Programming (OOP)
 ## Links(Optional)
 
 ## Technologies used
-< list languages used and other sources >
+Python
 
 ## Credits
 - [GDSC's Repo](https://github.com/USFGDSC/Py-wordle)
